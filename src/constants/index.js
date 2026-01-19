@@ -258,30 +258,17 @@ export const mySocials = [
 
 export const experiences = [
   {
-    title: "AI & Full-Stack Developer",
-    job: "DevTech Fusion",
-    date: "Oct 2025 – Present",
+    title: "Full-Stack Developer",
+    job: "ERS Tech",
+    date: "JULY 2025 – Present",
     contents: [
-      "Developing Generative AI solutions and LLM-based applications for production environments",
-      "Building full-stack web applications using MERN stack, Next.js, and FastAPI",
+      "Building full-stack web applications using MERN stack, Next.js, and REST API",
       "Designing and implementing AI-driven solutions to optimize real-world business applications",
-      "Working on advanced AI systems including RAG pipelines, chatbots, and intelligent agents",
+      "Working on advanced AI systems including  chatbots, and intelligent agents",
       "Developing scalable AI architectures and integrating them into business workflows"
     ]
   },
-  {
-    title: "AI & Web Development Intern",
-    job: "DevTech Fusion",
-    date: "Sep 2025 – Jan 2026",
-    contents: [
-      "Delivered production-ready real-time Voice AI Assistant with context-aware responses and zero hallucinations",
-      "Built FastAPI backends for AI applications with real-time speech processing and document analysis",
-      "Developed AI-based chat agents using LangChain with memory, tools & retrieval workflows",
-      "Built RAG pipelines connecting LLMs with structured/unstructured data sources",
-      "Designed web apps using React.js, Next.js & FastAPI with modern architecture",
-      "Improved response quality using prompt engineering & vector memory isolation"
-    ]
-  }
+  
 ];
 export const reviews = [
   {

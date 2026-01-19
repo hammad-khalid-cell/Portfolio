@@ -38,7 +38,7 @@ const Navbar = () => {
             href="/"
             className="text-xl font-bold transition-colors text-neutral-400 hover:text-white"
           >
-            Ghulam Ahmad
+            Hammad Khalid
           </a>
           <button
             onClick={() => setIsOpen(!isOpen)}
